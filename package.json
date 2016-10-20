@@ -1,0 +1,29 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "A place to adminre pizzas",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kbs5280/pizza-express.git"
+  },
+  "keywords": [
+    "express",
+    "pizza"
+  ],
+  "author": "Kris Sparks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbs5280/pizza-express/issues"
+  },
+  "homepage": "https://github.com/kbs5280/pizza-express#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "request": "^2.75.0"
+  }
+}
